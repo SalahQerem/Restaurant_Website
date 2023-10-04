@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css2?family=Alegreya+Sans&family=Dancing+Script&display=swap);
+.diche,.fotter,.full-menu,.gray-i,.header,.menu-title,.panel-menu{text-align:center}
+*{margin:0;padding:0;font-family:'Alegreya Sans',sans-serif}a{text-decoration:none}
+li{list-style-type:none;padding-top:5px}.clearfix{clear:both}
+.dancing-font{font-family:'Dancing Script',cursive;font-size:30px}.gray-icon{color:#919191}
+.reviewers-content h2,h2{font-size:36px}button{font-size:14px;border-radius:5%;padding:10px;border:none}
+.float-item{float:left}.gray-i{width:52px;height:52px;border-radius:100%;line-height:52px;font-size:24px;color:#fff;background:#c1ab84}
+.header,.overlay{height:100vh;overflow:hidden}.header,.shutterstock{background-size:cover}
+.li-text{padding-left:15px;padding-top:17px}.header{background-image:url('../img/background.jpg')}
+.navbar{padding-top:15px;position:fixed;width:100%;top:0}.contact,.logo,.reviewers-img{width:40%}
+.nav{width:60%;margin-top:30px}.logo img{width:30%}.nav ul li{display:inline-block;width:8%}
+.nav ul li a{color:#fff;font-size:20px}.header-content{margin-top:200px;color:#fff}
+.header-content img{width:320px}.header-content h1{font-size:70px;margin-bottom:30px}
+.header-content p{font-size:40px;margin-bottom:30px}.header-content button{padding:15px 20px}
+.gray-button{background-color:#c1ab84;color:#fff;cursor:pointer}.about-info h3,.fotter{color:#cfcbcb}
+.gray-button:hover{background-color:#fff;color:#000}.overlay{background-color:rgb(0,0,0,.2)}
+.family-business{padding-top:50px}.chef-img{width:35%;padding-left:150px}.chef-img img{width:100%}
+.family-content{width:40%;padding-top:190px}.family-padding{padding-top:15px}
+.reviewers{padding:80px 150px;background-color:#f8f8f8}.reviewers-content{width:60%}
+.reviewers-img img{width:80%;padding-left:50px}
+.reviewers-content ul li i{font-size:20px;background-color:#f8f8f8;color:#c1ab84}
+.shutterstock{height:420px;width:100%;background-image:url(../img/shutterstock.jpg);background-position:0 -150px}
+.min{height:420px}.menu{margin-top:100px}.menu-title{padding:30px 0}.diche p,.diches{width:75%;margin:auto}
+.diche{width:33%;margin-top:50px}.diche img{width:75%}.full-menu{padding:50px 0}
+.about-location{padding:20px 140px}.location{float:right;width:50%;padding-left:20px}
+.location iframe{width:90%;padding-left:50px}.about-info{background-color:#403d38;padding:80px 0}
+.about-info p{color:#969696}.container{width:80%;margin:auto}.info-item{width:23%;padding:0 15px}
+.info-item ul li{border-bottom:1px solid rgba(255,255,255,.05);padding:10px 0}
+.info-item ul li i{font-size:10px;width:20px;padding-top:3px;padding-right:10px;color:#969696}
+.overlay-contact ul li i{font-size:18px;padding-top:0}.fotter{background-color:#353330;padding:80px 0}
+.communication{margin:auto;width:15%}.communication i{color:#8c8a86;background-color:#484540;margin-right:5px}
+.communication i:hover{background-color:#2929a9;cursor:pointer}
+.panel-menu{position:fixed;top:200px;width:42px;background:#fff;border-radius:4px 0 0 4px;line-height:35px;font-size:22px;right:0;color:#666}
+.panel-menu i:hover{color:#2929a9;cursor:pointer}.comm-icons{width:228px;margin:auto}
+.contact-background{background:url(../img/contact-details-map.png) 20px 40px no-repeat;height:250px}
+.overlay-contact{background-color:rgba(64,61,56,.2);height:250px}

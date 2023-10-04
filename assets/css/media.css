@@ -1,0 +1,102 @@
+@media only screen and (max-width: 576px) {
+
+    .nav{
+        margin-top: 5px;
+    }
+
+    .logo img{
+        width: 80%;
+        padding-top: 3px;
+    }
+
+    .nav ul li{
+        width: 30%;
+    }
+
+    .header-content p{
+        font-size: 28px;
+    }
+
+    .chef-img, .family-content, .reviewers-content, .reviewers-img, .diche, .location, .contact, .info-item{
+        float: none;
+    }
+
+    .chef-img, .family-content, .reviewers-content, .reviewers-img, .diches, .location, .contact, .info-item, .communication{
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    .chef-img{
+        padding-left: 0;
+    }
+
+    .family-content{
+        padding: 120px 20px 50px 20px;
+    }
+
+    .family-content ul li p{
+        padding-top: 18px;
+        
+    }
+
+    .reviewers{
+        padding: 80px 20px;
+    }
+
+    .reviewers-img{
+        padding-top: 20px;
+    }
+
+    .reviewers-img img{
+        width: 100%;
+        padding: 0;
+    }
+
+    .reviewers-content ul li p{
+        padding-left: 0;
+    }
+
+    .diche{
+        width: 90%;
+        margin: auto;
+        padding-bottom: 30px;
+    }
+
+    .diche img{
+        width: 100%;
+    }
+
+    .about-location{
+        padding: 0 30px;
+    }
+
+    .location{
+        padding: 0;
+    }
+
+    .location iframe{
+        padding: 40px 0;
+        width: 100%;
+    }
+
+    .info-item{
+        padding: 15px 0
+    }
+
+    .info-item ul li{
+        padding-top: 10px;
+    }
+
+    .shutterstock{
+        width: 100%;
+        background-position: 48.6% 26%;
+        background-size: 200%;
+        background-repeat: no-repeat;
+        box-sizing: border-box;
+        height: 500px;
+    }
+
+    .min{
+        height: 500px;
+    }
+}
